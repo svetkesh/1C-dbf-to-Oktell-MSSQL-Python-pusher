@@ -6,3 +6,8 @@
 
 Freed up more than 2 hour per work day for IT stuff.
 Data analyzing and presentation became clear and accurate.
+
+This is outdated project but still been used in production.
+
+The main reaseon to present it here is to mark up year I started programming Python.
+Thanks a lot and please do not consider this example as my current skill level.
